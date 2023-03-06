@@ -5,4 +5,4 @@ Therefore, I wrote another version with multiprocessing.
 
 Although that version does not have syntax errors, I am not sure if it fully works.
 
-Below is a time comparison for these two methods.
+Marathon Tournaments page: https://lichess.org/tournament/history/marathon
